@@ -1,0 +1,11 @@
+catboost==1.2.10
+joblib==1.5.3
+lightgbm==4.6.0
+mlflow==3.9.0
+mlflow_skinny==3.9.0
+mlflow_tracing==3.9.0
+numpy==2.5.0
+pandas==3.0.3
+scikit_learn==1.9.0
+streamlit==1.55.0
+xgboost==3.3.0
